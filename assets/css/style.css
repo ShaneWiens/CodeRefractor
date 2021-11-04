@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* provides background image for the body of the webpage */
 body {
     background-color: #d9dcd6;
 }
 
+/* adds styling to the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -69,6 +71,7 @@ p {
     margin-left: 25px;
 }
 
+/* Styles the main content */
 .content {
     width: 75%;
     display: inline-block;
@@ -91,7 +94,6 @@ p {
     color: #ffffff;
 }
 
-
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -103,7 +105,7 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+.placeholder {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -112,51 +114,16 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
+.placeholder img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
+.placeholder h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* styles the footer section */
 .footer {
     padding: 30px;
     clear: both;
