@@ -7,4 +7,4 @@ Each portion of content contained class selectors unique to the elements to whic
 
 The first of each 'duplicate' class within the css files was renamed to the new generalized class for each section. The two subsequent duplicate stylings were deleted.
 
-![This is a screenshot of my website](https://github.com/ShaneWiens/CodeRefractor/blob/main/webbysight.png)
+![This is a screenshot of my website](https://github.com/ShaneWiens/CodeRefractor/main/webbysight.png)
